@@ -1,0 +1,1 @@
+/Users/asjad/.fig/shell/pre.fish
