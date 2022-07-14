@@ -1,3 +1,3 @@
 function asp
-export AWS_PROFILE=$argv[1]
+    env AWS_PROFILE=$argv[1] fish
 end
