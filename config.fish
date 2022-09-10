@@ -9,7 +9,3 @@ starship init fish | source
 set -gx PNPM_HOME "/Users/asjad/Library/pnpm"
 set -gx PATH "$PNPM_HOME" $PATH
 # pnpm end
-
-# pdm
-pdm --pep582 &> /dev/null
-# pdm end
