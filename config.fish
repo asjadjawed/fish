@@ -9,3 +9,7 @@ starship init fish | source
 set -gx PNPM_HOME "/Users/asjad/Library/pnpm"
 set -gx PATH "$PNPM_HOME" $PATH
 # pnpm end
+
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+set --export --prepend PATH "/Users/asjad/.rd/bin"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
