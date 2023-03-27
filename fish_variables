@@ -65,6 +65,6 @@ SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_pager_color_selected_background:\x2dr
-SETUVAR fish_user_paths:/usr/local/sbin/\x1e/Users/asjad/bin/\x1e/Users/asjad/\x2efig/bin\x1e/Users/asjad/\x2elocal/bin\x1e/usr/local/anaconda3/bin/
+SETUVAR fish_user_paths:/usr/local/sbin/\x1e/Users/asjad/bin/\x1e/Users/asjad/\x2efig/bin\x1e/Users/asjad/\x2elocal/bin\x1e/usr/local/anaconda3/bin/\x1e/Users/asjad/\x2ecargo/bin/
 SETUVAR theme_display_user:no
 SETUVAR theme_nerd_fonts:yes
