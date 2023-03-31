@@ -2,6 +2,7 @@
 # VERSION: 3.0
 SETUVAR --export AWS_CLI_AUTO_PROMPT:on
 SETUVAR --export AWS_OKTA_USERNAME:asjad\x2ejawed
+SETUVAR --export CONDA_AUTO_ACTIVATE_BASE:false
 SETUVAR --export EXA_LAAD_OPTIONS:\x2d\x2dall\x1e\x2d\x2dall\x1e\x2d\x2dbinary\x1e\x2d\x2donly\x2ddirs
 SETUVAR --export EXA_LAAID_OPTIONS:\x2d\x2dall\x1e\x2d\x2dall\x1e\x2d\x2dbinary\x1e\x2d\x2dicons\x1e\x2d\x2donly\x2ddirs
 SETUVAR --export EXA_LAAI_OPTIONS:\x2d\x2dall\x1e\x2d\x2dall\x1e\x2d\x2dbinary\x1e\x2d\x2dicons
