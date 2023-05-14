@@ -3,6 +3,8 @@
 SETUVAR --export AWS_CLI_AUTO_PROMPT:on
 SETUVAR --export AWS_OKTA_USERNAME:asjad\x2ejawed
 SETUVAR --export CONDA_AUTO_ACTIVATE_BASE:false
+SETUVAR --export GOPATH:/Users/asjad/go
+SETUVAR --export GOROOT:/usr/local/opt/go/libexec
 SETUVAR --export EXA_LAAD_OPTIONS:\x2d\x2dall\x1e\x2d\x2dall\x1e\x2d\x2dbinary\x1e\x2d\x2donly\x2ddirs
 SETUVAR --export EXA_LAAID_OPTIONS:\x2d\x2dall\x1e\x2d\x2dall\x1e\x2d\x2dbinary\x1e\x2d\x2dicons\x1e\x2d\x2donly\x2ddirs
 SETUVAR --export EXA_LAAI_OPTIONS:\x2d\x2dall\x1e\x2d\x2dall\x1e\x2d\x2dbinary\x1e\x2d\x2dicons
@@ -66,6 +68,6 @@ SETUVAR fish_pager_color_description:B3A06D\x1eyellow
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_pager_color_selected_background:\x2dr
-SETUVAR fish_user_paths:/usr/local/sbin/\x1e/Users/asjad/bin/\x1e/Users/asjad/\x2efig/bin\x1e/Users/asjad/\x2elocal/bin\x1e/usr/local/anaconda3/bin/\x1e/Users/asjad/\x2ecargo/bin/
+SETUVAR fish_user_paths:/usr/local/sbin/\x1e/Users/asjad/bin/\x1e/Users/asjad/\x2efig/bin\x1e/Users/asjad/\x2elocal/bin\x1e/usr/local/anaconda3/bin/\x1e/Users/asjad/\x2ecargo/bin/\x1e/Users/asjad/go/bin/\x1e/usr/local/opt/go/libexec
 SETUVAR theme_display_user:no
 SETUVAR theme_nerd_fonts:yes
