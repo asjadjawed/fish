@@ -6,7 +6,6 @@ function upup
     and brew doctor; \
     and fisher update; \
     and tldr --update; \
-    and fish $HOME/.config/fish/user/exa.fish; \
     and pnpm update -g; \
     and conda update --all --yes; \
     and rustup update
